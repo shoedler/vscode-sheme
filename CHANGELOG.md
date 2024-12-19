@@ -2,10 +2,10 @@
 
 All notable changes to the "sheme" extension will be documented in this file.
 
-## **`[1.0.1]` - `19.12.2024`**
+## **`[1.0.1/2]` - `19.12.2024`**
 
  - Added splash image
- 
+
 ## **`[1.0.0]` - `19.12.2024`**
 
 - 🎉 initial release
