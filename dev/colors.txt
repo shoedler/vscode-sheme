@@ -1,0 +1,301 @@
+differen colors: 70
+#97bffc => 21:
+		activityBar.activeBorder,
+		activityBarBadge.background,
+		badge.foreground,
+		breadcrumb.activeSelectionForeground,
+		editorSuggestWidget.highlightForeground,
+		editorWidget.border,
+		editorWidget.resizeBorder,
+		list.activeSelectionIconForeground,
+		list.activeSelectionForeground,
+		list.inactiveSelectionIconForeground,
+		list.inactiveSelectionForeground,
+		menubar.selectionForeground,
+		notificationLink.foreground,
+		panelTitle.activeBorder,
+		pickerGroup.foreground,
+		progressBar.background,
+		settings.headerForeground,
+		settings.modifiedItemIndicator,
+		statusBarItem.remoteBackground,
+		tab.activeBorderTop,
+		textLink.foreground
+#0f111a => 30:
+		activityBar.background,
+		breadcrumb.background,
+		breadcrumbPicker.background,
+		debugToolBar.background,
+		dropdown.background,
+		editor.background,
+		editorBracketMatch.background,
+		editorGroup.emptyBackground,
+		editorGroupHeader.tabsBackground,
+		editorHoverWidget.background,
+		editorSuggestWidget.background,
+		editorWidget.background,
+		menu.background,
+		notifications.background,
+		panel.background,
+		quickInput.background,
+		settings.checkboxBackground,
+		settings.dropdownBackground,
+		settings.numberInputBackground,
+		settings.textInputBackground,
+		sideBar.background,
+		sideBarSectionHeader.background,
+		statusBar.background,
+		statusBar.debuggingForeground,
+		statusBar.noFolderBackground,
+		tab.activeBackground,
+		tab.border,
+		tab.inactiveBackground,
+		titleBar.activeBackground,
+		titleBar.inactiveBackground
+#0f111a60 => 6:
+		activityBar.border,
+		panel.border,
+		sideBar.border,
+		sideBarSectionHeader.border,
+		statusBar.border,
+		titleBar.border
+#7f849c => 19:
+		activityBar.foreground,
+		breadcrumb.focusForeground,
+		editor.foreground,
+		editorSuggestWidget.foreground,
+		extensionBadge.remoteForeground,
+		foreground,
+		input.foreground,
+		menu.foreground,
+		menu.separatorBackground,
+		notifications.foreground,
+		panelTitle.inactiveForeground,
+		settings.checkboxForeground,
+		settings.dropdownForeground,
+		settings.numberInputForeground,
+		settings.textInputForeground,
+		sideBarTitle.foreground,
+		tab.unfocusedActiveForeground,
+		textLink.activeForeground,
+		titleBar.activeForeground
+#000000 => 6:
+		activityBarBadge.foreground,
+		editor.findMatchBackground,
+		extensionButton.prominentForeground,
+		statusBarItem.remoteForeground,
+		terminal.ansiBlack,
+		terminalCursor.background
+#00000000 => 10:
+		badge.background,
+		editorOverviewRuler.border,
+		editorOverviewRuler.bracketMatchForeground,
+		editorOverviewRuler.findMatchForeground,
+		editorOverviewRuler.infoForeground,
+		editorOverviewRuler.rangeHighlightForeground,
+		editorOverviewRuler.selectionHighlightForeground,
+		editorOverviewRuler.wordHighlightForeground,
+		editorOverviewRuler.wordHighlightStrongForeground,
+		scrollbar.shadow
+#525975 => 8:
+		breadcrumb.foreground,
+		editorLineNumber.activeForeground,
+		quickInput.foreground,
+		sideBar.foreground,
+		tab.activeModifiedBorder,
+		tab.inactiveForeground,
+		titleBar.inactiveForeground,
+		tree.indentGuidesStroke
+#717cb450 => 3:
+		button.background,
+		peekViewEditor.matchHighlightBackground,
+		peekViewResult.matchHighlightBackground
+#ffffff => 5:
+		button.foreground,
+		panelTitle.activeForeground,
+		tab.activeForeground,
+		terminal.ansiBrightWhite,
+		terminal.ansiWhite
+#a0e46167 => 1:
+		diffEditor.insertedTextBackground
+#a0e46123 => 1:
+		diffEditor.insertedLineBackground
+#ff4c6a93 => 1:
+		diffEditor.removedTextBackground
+#ff9cad2f => 1:
+		diffEditor.removedLineBackground
+#ffffff10 => 4:
+		dropdown.border,
+		editorHoverWidget.border,
+		editorSuggestWidget.border,
+		input.border
+#c792ea => 4:
+		editor.findMatchBorder,
+		statusBar.debuggingBackground,
+		terminal.ansiBrightMagenta,
+		terminal.ansiMagenta
+#c792ea20 => 1:
+		editor.findMatchHighlightBackground
+#c792ea40 => 6:
+		editor.findMatchHighlightBorder,
+		editor.findRangeHighlightBackground,
+		editor.selectionBackground,
+		editor.wordHighlightBackground,
+		editorGroup.dropBackground,
+		list.dropBackground
+#c792ea10 => 1:
+		editor.lineHighlightBackground
+#c792ea00 => 1:
+		editor.lineHighlightBorder
+#ffffff0d => 1:
+		editor.rangeHighlightBackground
+#c792ea30 => 1:
+		editor.selectionHighlightBackground
+#c3e88d30 => 1:
+		editor.wordHighlightStrongBackground
+#c792ea70 => 1:
+		editorBracketMatch.border
+#46464e => 2:
+		editorCodeLens.foreground,
+		gitlens.trailingLineForegroundColor
+#ffcc00 => 1:
+		editorCursor.foreground
+#f33a59 => 9:
+		editorError.foreground,
+		editorGroup.focusedEmptyBorder,
+		editorOverviewRuler.commonContentForeground,
+		editorOverviewRuler.currentContentForeground,
+		editorOverviewRuler.errorForeground,
+		editorOverviewRuler.incomingContentForeground,
+		list.errorForeground,
+		terminal.ansiBrightRed,
+		terminal.ansiRed
+#00000030 => 9:
+		editorGroup.border,
+		listFilterWidget.background,
+		listFilterWidget.noMatchesOutline,
+		listFilterWidget.outline,
+		menu.selectionBorder,
+		menubar.selectionBackground,
+		menubar.selectionBorder,
+		peekView.border,
+		widget.shadow
+#c3e88d60 => 1:
+		editorGutter.addedBackground
+#f33a5960 => 1:
+		editorGutter.deletedBackground
+#82aaff60 => 1:
+		editorGutter.modifiedBackground
+#3b3f51 => 2:
+		editorIndentGuide.activeBackground1,
+		editorRuler.foreground
+#3b3f5170 => 1:
+		editorIndentGuide.background1
+#82aaff70 => 1:
+		editorInfo.foreground
+#3b3f5180 => 2:
+		editorLineNumber.foreground,
+		tree.inactiveIndentGuidesStroke
+#7f849c70 => 1:
+		editorLink.activeForeground
+#7f849c05 => 5:
+		editorMarkerNavigation.background,
+		peekViewEditor.background,
+		peekViewEditorGutter.background,
+		peekViewResult.background,
+		peekViewTitle.background
+#c3e88d50 => 1:
+		editorOverviewRuler.addedForeground
+#f33a5950 => 2:
+		editorOverviewRuler.deletedForeground,
+		inputValidation.errorBorder
+#82aaff50 => 2:
+		editorOverviewRuler.modifiedForeground,
+		inputValidation.infoBorder
+#ffcb6b => 8:
+		editorOverviewRuler.warningForeground,
+		editorWarning.foreground,
+		list.warningForeground,
+		terminal.ansiBrightYellow,
+		terminal.ansiYellow,
+		terminalCursor.foreground,
+		notificationsWarningIcon.foreground,
+		problemsWarningIcon.foreground
+#00000050 => 1:
+		editorSuggestWidget.selectedBackground
+#7f849c40 => 1:
+		editorWhitespace.foreground
+#c3e88d90 => 2:
+		extensionButton.prominentBackground,
+		gitDecoration.untrackedResourceForeground
+#c3e88d => 3:
+		extensionButton.prominentHoverBackground,
+		terminal.ansiBrightGreen,
+		terminal.ansiGreen
+#ffffff00 => 1:
+		focusBorder
+#ffcb6b90 => 1:
+		gitDecoration.conflictingResourceForeground
+#f33a5990 => 1:
+		gitDecoration.deletedResourceForeground
+#52597590 => 1:
+		gitDecoration.ignoredResourceForeground
+#82aaff90 => 1:
+		gitDecoration.modifiedResourceForeground
+#1a1c25 => 1:
+		input.background
+#7f849c60 => 2:
+		input.placeholderForeground,
+		peekViewTitleDescription.foreground
+#7f849c30 => 2:
+		inputOption.activeBackground,
+		inputOption.activeBorder
+#ffcb6b50 => 1:
+		inputValidation.warningBorder
+#97bffc30 => 6:
+		list.activeSelectionBackground,
+		list.inactiveSelectionBackground,
+		list.inactiveFocusBackground,
+		list.focusBackground,
+		scrollbarSlider.hoverBackground,
+		statusBarItem.activeBackground
+#ffffff60 => 1:
+		list.focusForeground
+#ffffff30 => 1:
+		list.highlightForeground
+#00000070 => 3:
+		list.hoverBackground,
+		menu.selectionBackground,
+		statusBarItem.hoverBackground
+#ffffffee => 3:
+		list.hoverForeground,
+		menu.selectionForeground,
+		statusBarItem.hoverForeground
+#52597570 => 1:
+		peekViewResult.selectionBackground
+#ffffff1a => 1:
+		pickerGroup.border
+#97bffc50 => 1:
+		scrollbarSlider.activeBackground
+#97bffc20 => 1:
+		scrollbarSlider.background
+#00000080 => 1:
+		selection.background
+#4b526d => 1:
+		statusBar.foreground
+#904348 => 2:
+		tab.inactiveModifiedBorder,
+		tab.unfocusedInactiveModifiedBorder
+#464b5d => 2:
+		tab.unfocusedActiveBorder,
+		terminal.ansiBrightBlack
+#c05a60 => 1:
+		tab.unfocusedActiveModifiedBorder
+#82aaff => 2:
+		terminal.ansiBlue,
+		terminal.ansiBrightBlue
+#89ddff => 2:
+		terminal.ansiBrightCyan,
+		terminal.ansiCyan
+#c792ea50 => 1:
+		terminal.selectionBackground

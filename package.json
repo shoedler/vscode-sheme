@@ -1,0 +1,37 @@
+{
+	"name": "sheme",
+	"displayName": "Sheme",
+	"description": "My own dark Theme for Visual Studio Code.",
+	"version": "0.1.0",
+	"publisher": "shoedler",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shoedler/sheme"
+	},
+	"icon": "sheme.png",
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keyword": [
+		"Theme",
+		"Dark Theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Sheme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sheme.color-theme.json"
+			}
+		]
+	},
+	"scripts": {
+		"publish-patch": "vsce publish patch -m ':arrow_up: patch update (%s)'",
+		"publish-minor": "vsce publish minor -m ':arrow_up: minor update (%s)'",
+		"publish-major": "vsce publish major -m ':arrow_up: major update (%s)'"
+	}
+}
