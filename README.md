@@ -1,4 +1,4 @@
-<img src="https://github.com/WashirePie/vscode-sheme/blob/main/sheme-splash.png?raw=true" alt="splash" width="500">
+<img src="https://github.com/shoedler/vscode-sheme/blob/main/sheme-splash.png?raw=true" alt="splash" width="500">
 
 # Sheme
 
